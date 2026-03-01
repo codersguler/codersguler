@@ -22,7 +22,6 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılım dünyasına web v
 - 🚀 Yenilikçi mühendislik projelerinde yer alarak gömülü sistemler alanında sektörel deneyim kazanmak.
 
 ---
-📫 Bana [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulerserdar2357@gmail.com) 
- veya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/serdar-güler-a823292a6/)
-üzerinden ulaşabilirsiniz!
+📬 **İletişim:**
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/serdar-güler-a823292a6)
+* **E-posta:** [gulerserdar2357@gmail.com](mailto:gulerserdar2357@gmail.com)
