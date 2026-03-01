@@ -23,5 +23,5 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılım dünyasına web v
 
 ---
 📬 **İletişim:**
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/serdar-güler-a823292a6)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/serdar-güler-a823292a6)
 * **E-posta:** [gulerserdar2357@gmail.com](mailto:gulerserdar2357@gmail.com)
